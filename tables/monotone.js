@@ -61,6 +61,7 @@ bingoList[1] = [
   { name: "!sellout plug", types: ["normal"]},
   { name: "FMV", types: ["normal"]},
   { name: "Bathroom break", types: ["normal"]},
+  { name: "Reading internet comments", types: ["normal"]},
 ];
 
 $(function() { srl.bingo(bingoList, 5); });
