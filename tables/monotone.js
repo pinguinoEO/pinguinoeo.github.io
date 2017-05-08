@@ -62,6 +62,8 @@ bingoList[1] = [
   { name: "FMV", types: ["normal"]},
   { name: "Bathroom break", types: ["normal"]},
   { name: "Reading internet comments", types: ["normal"]},
+  { name: "'God, I wish'", types: ["normal"]},
+  { name: "2+ 'Oh's in a row", types: ["normal"]},
 ];
 
 $(function() { srl.bingo(bingoList, 5); });
