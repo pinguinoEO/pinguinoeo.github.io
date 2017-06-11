@@ -32,7 +32,7 @@ bingoList[1] = [
   { name: "'I paid money for this.'", types: ["normal"]},
   { name: "'Oh man, could you imagine?'", types: ["normal"]},
   { name: "'I'll take it!'", types: ["normal"]},
-  { name: "'OK Google'", types: ["normal"]},
+  { name: "'Hey Cortana' or 'OK Google'", types: ["normal"]},
   { name: "Game crash", types: ["normal"]},
   { name: "MIDIs", types: ["normal"]},
   { name: "Novelty numbers: 420, 69, or 666", types: ["normal"]},
