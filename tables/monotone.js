@@ -64,7 +64,8 @@ bingoList[1] = [
   { name: "Reading internet comments", types: ["normal"]},
   { name: "'God, I wish'", types: ["normal"]},
   { name: "2+ 'Oh's in a row", types: ["normal"]},
-  { name: "'The thing with...'", types: ["normal"]}
+  { name: "'The thing with...'", types: ["normal"]},
+  { name: "'That's pretty good!'", types: ["normal"]}
 ];
 
 $(function() { srl.bingo(bingoList, 5); });
