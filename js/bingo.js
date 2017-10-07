@@ -234,7 +234,7 @@ var bingo = function(bingoList, size) {
 		//bingoBoard[i].synergy = minSynObj.synergy;
 	}
 	
-	actualBingo[13] = "Not Spore (Free Space)";
+	actualBingo[13] = "Not Spore    (Free Space)";
 
 	//populate the actual table on the page
 	for (i=1; i<=25; i++) {

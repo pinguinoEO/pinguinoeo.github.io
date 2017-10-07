@@ -18,7 +18,6 @@ bingoList[1] = [
   { name: "Bingo plug", types: ["normal"]},
   { name: "Police sirens in the background", types: ["normal"]},
   { name: "'One day' or 'One of these days...'", types: ["normal"]},
-  { name: "Showing off old saves", types: ["normal"]},
   { name: "Bad ending / Game Over", types: ["normal"]},
   { name: "Out of money", types: ["normal"]},
   { name: "Strawpoll", types: ["normal"]},
@@ -53,10 +52,8 @@ bingoList[1] = [
   { name: "'Legitimately'", types: ["normal"]},
   { name: "'That rounds up/down'", types: ["normal"]},
   { name: "London", types: ["normal"]},
-  { name: "Tim reads Japanese", types: ["normal"]},
   { name: "WikiHow", types: ["normal"]},
   { name: "Asia Old Man", types: ["normal"]},
-  { name: "Donald Trump", types: ["normal"]},
   { name: "'This changes everything!'", types: ["normal"]},
   { name: "!sellout plug", types: ["normal"]},
   { name: "FMV", types: ["normal"]},
@@ -65,7 +62,9 @@ bingoList[1] = [
   { name: "'God, I wish'", types: ["normal"]},
   { name: "2+ 'Oh's in a row", types: ["normal"]},
   { name: "'The thing with...'", types: ["normal"]},
-  { name: "'That's pretty good!'", types: ["normal"]}
+  { name: "'That's pretty good!'", types: ["normal"]},
+  { name: "10000 bit donation", types: ["normal"]},
+  { name: "Mid-stream hold on screen", types: ["normal"]}
 ];
 
 $(function() { srl.bingo(bingoList, 5); });
