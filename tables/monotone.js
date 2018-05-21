@@ -7,7 +7,7 @@ bingoList[1] = [
   { name: "Ace Attorney reference", types: ["normal"]},
   { name: "Sonic the Hedgehog reference", types: ["normal"]},
   { name: "'I'm sorry, what!?'", types: ["normal"]},
-  { name: "Tim refers to himself as a girl", types: ["normal"]},
+  { name: "Girl Tim", types: ["normal"]},
   { name: "Tim mimics a character", types: ["normal"]},
   { name: "PICNIC", types: ["normal"]},
   { name: "'Butts'", types: ["normal"]},
