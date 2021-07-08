@@ -65,7 +65,8 @@ bingoList[1] = [
   { name: "'That's pretty good!'", types: ["normal"]},
   { name: "10000 bit donation", types: ["normal"]},
   { name: "Mid-stream hold on screen", types: ["normal"]},
-  { name: "Messy desktop", types: ["normal"]}
+  { name: "Messy desktop", types: ["normal"]},
+  { name: "What's this?", types: ["normal"]}
 ];
 
 $(function() { srl.bingo(bingoList, 5); });
